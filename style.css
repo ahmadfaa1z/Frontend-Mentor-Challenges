@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Inter', sans-serif;
+}
+
+nav a {
+  line-height: 1.5em;
+}
