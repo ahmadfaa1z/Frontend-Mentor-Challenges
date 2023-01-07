@@ -1,5 +1,5 @@
 .attribution {
-  font-size: 11px;
+  font-size: 0.6875em;
   text-align: center;
   margin-top: 20px;
 }
@@ -9,7 +9,7 @@
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -46,13 +46,13 @@ main {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 1.375em;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
 
 p {
-  font-size: 15px;
+  font-size: 0.9375em;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
   padding-bottom: 28px;
