@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/ahmadfaa1z/Frontend-Mentor-Challenges/tree/master/qr-code-component)
+- [Solution URL](https://github.com/ahmadfaa1z/Frontend-Mentor-Challenges/tree/master/product-preview-card-component)
 - [Live Site URL](https://ahmadfaa1z.github.io/Frontend-Mentor-Challenges/product-preview-card-component/index.html)
 
 ## My process
